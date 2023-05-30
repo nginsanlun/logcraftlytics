@@ -1,0 +1,40 @@
+2022-09-05 09:09:07] dev5.INFO: 12e8a63e-bd6d-4d2b-a01e-06fec5d0187e 0 192.168.61.132 GET subscriber/api/v3/version 406 785.34ms Myanmar Net/2aec7f1f191345157e4512efab8d8fa65b2f3905 (com.frontiir.net.MyanmarNetIOS; build:3764; iOS 15.5.0) Alamofire/2aec7f1f191345157e4512efab8d8fa65b2f3905  
+[2022-09-05 09:09:18] dev5.DEBUG: Array
+(
+    [phone] => 09773727002
+    [identifier] => bda634359d68c6e45f13940859ace54207ac1e2cb175d7176123047dbf30e677
+    [device] => <UIDevice: 0x280a61e40>
+)
+  
+[2022-09-05 09:09:19] dev5.INFO: "select `id`, `uid`, `verified`, `password` from `users` where `uid` = ? limit 1"  
+[2022-09-05 09:09:19] dev5.INFO: ["773727002"]  
+[2022-09-05 09:09:19] dev5.INFO: Query take 57.06  
+[2022-09-05 09:09:19] dev5.DEBUG: From Cache: 8507  
+[2022-09-05 09:09:19] dev5.INFO: "select `id`, `uid`, `verified`, `password` from `users` where `uid` = ? limit 1"  
+[2022-09-05 09:09:19] dev5.INFO: ["773727002"]  
+[2022-09-05 09:09:19] dev5.INFO: Query take 1.28  
+[2022-09-05 09:09:19] dev5.DEBUG: Uid: 773727002  
+[2022-09-05 09:09:19] dev5.DEBUG: Phone: 773727002  
+[2022-09-05 09:09:19] dev5.DEBUG: Verification: 8507  
+[2022-09-05 09:09:20] dev5.INFO: 12e8a63e-bd6d-4d2b-a01e-06fec5d0187e 0 192.168.61.132 POST subscriber/api/v3/register 200 1.12s Myanmar Net/2aec7f1f191345157e4512efab8d8fa65b2f3905 (com.frontiir.net.MyanmarNetIOS; build:3764; iOS 15.5.0) Alamofire/2aec7f1f191345157e4512efab8d8fa65b2f3905  
+[2022-09-05 09:19:57] dev5.INFO: 12e8a63e-bd6d-4d2b-a01e-06fec5d0187e 0 192.168.61.132 GET subscriber/api/v3/version 406 16.50ms Myanmar Net/2aec7f1f191345157e4512efab8d8fa65b2f3905 (com.frontiir.net.MyanmarNetIOS; build:3764; iOS 15.5.0) Alamofire/2aec7f1f191345157e4512efab8d8fa65b2f3905  
+[2022-09-05 09:20:10] dev5.INFO: 12e8a63e-bd6d-4d2b-a01e-06fec5d0187e 0 192.168.61.132 POST subscriber/api/v3/account/773727002 405 1.70s Myanmar Net/2aec7f1f191345157e4512efab8d8fa65b2f3905 (com.frontiir.net.MyanmarNetIOS; build:3764; iOS 15.5.0) Alamofire/2aec7f1f191345157e4512efab8d8fa65b2f3905  
+[2022-09-05 09:20:33] dev5.INFO: 12e8a63e-bd6d-4d2b-a01e-06fec5d0187e 0 192.168.61.132 GET subscriber/api/v3/version 406 15.12ms Myanmar Net/2aec7f1f191345157e4512efab8d8fa65b2f3905 (com.frontiir.net.MyanmarNetIOS; build:3764; iOS 15.5.0) Alamofire/2aec7f1f191345157e4512efab8d8fa65b2f3905  
+[2022-09-05 09:20:44] dev5.DEBUG: Array
+(
+    [device] => <UIDevice: 0x280e9c180>
+    [phone] => 09773727002
+    [identifier] => bda634359d68c6e45f13940859ace54207ac1e2cb175d7176123047dbf30e677
+)
+  
+[2022-09-05 09:20:44] dev5.INFO: "select `id`, `uid`, `verified`, `password` from `users` where `uid` = ? limit 1"  
+[2022-09-05 09:20:44] dev5.INFO: ["773727002"]  
+[2022-09-05 09:20:44] dev5.INFO: Query take 10.4  
+[2022-09-05 09:20:44] dev5.DEBUG: From Cache: 8959  
+[2022-09-05 09:20:44] dev5.INFO: "select `id`, `uid`, `verified`, `password` from `users` where `uid` = ? limit 1"  
+[2022-09-05 09:20:44] dev5.INFO: ["773727002"]  
+[2022-09-05 09:20:44] dev5.INFO: Query take 2.49  
+[2022-09-05 09:20:44] dev5.DEBUG: Uid: 773727002  
+[2022-09-05 09:20:44] dev5.DEBUG: Phone: 773727002  
+[2022-09-05 09:20:44] dev5.DEBUG: Verification: 8959  
+[2022-09-05 09:20:44] dev5.INFO: 12e8a63e-bd6d-4d2b-a01e-06fec5d0187e 0 192.168.61.132 POST subscriber/api/v3/register 200 79.79ms Myanmar Net/2aec7f1f191345157e4512efab8d8fa65b2f3905 (com.frontiir.net.MyanmarNetIOS; build:3764; iOS 15.5.0) Alamofire/2aec7f1f191345157e4512efab8d8fa65b2f3905  

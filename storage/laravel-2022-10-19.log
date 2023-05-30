@@ -1,0 +1,4 @@
+[2022-10-19 14:35:56] local.INFO: 00-00-00-00 0 192.168.61.230 GET subscriber/api/v3//user/979605074/coda/product/listing 405 767.71ms insomnia/2021.5.2  
+[2022-10-19 14:35:58] local.INFO: 00-00-00-00 0 192.168.61.230 GET _debugbar/assets/stylesheets 200 130.96ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Insomnia/2021.5.2 Chrome/87.0.4280.141 Electron/11.2.3 Safari/537.36  
+[2022-10-19 14:35:58] local.INFO: 00-00-00-00 0 192.168.61.230 GET _debugbar/assets/javascript 200 652.44ms Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Insomnia/2021.5.2 Chrome/87.0.4280.141 Electron/11.2.3 Safari/537.36  
+[2022-10-19 14:37:18] local.INFO: 00-00-00-00 0 192.168.61.230 GET subscriber/api/v3//user/795549372/coda/product/listing 405 492.13ms insomnia/2021.5.2  
